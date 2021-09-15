@@ -139,7 +139,6 @@ use the examples below at the bottom of the file run the file in Node.js.
 
 Example:
 
-```js
 class Person {
   constructor(name) {
     this.name = name;
